@@ -9,10 +9,9 @@ This project analyzes **Connecticut real estate sale prices from 2001–2022** b
 
 ```
 notebooks/        – Final and intermediate Jupyter notebooks
-src/              – Modular Python scripts for preprocessing, modeling, visualization
 reports/          – Project report and presentation
 images/           – Exported charts used in the report
-data/             – Placeholder (datasets removed for privacy)
+data/             – Placeholder
 requirements.txt  – Package dependencies
 LICENSE           – License file
 ```
