@@ -1,2 +1,20 @@
-# real-estate-sale-prices-socioeconomic-indicators-ct
-Analysis of Connecticut real estate sale prices (2001–2022) against socioeconomic indicators including crime, school availability, healthcare access, and employment metrics. AIT 582 Final Project — GMU.
+# Real Estate Sale Prices Against Socioeconomic Indicators (Connecticut 2001–2022)
+
+### George Mason University – AIT 582 (Spring 2025)
+Team 5 · Final Project · Professor Lam Phung
+
+This project analyzes **Connecticut real estate sale prices from 2001–2022** by integrating crime statistics, school availability, healthcare facilities, employment indicators, and property assessment data. The goal is to identify how socioeconomic variables shape housing prices across Connecticut towns. The repository contains cleaned source code, models, visualizations, and reports.
+
+## Repository Structure
+
+```
+notebooks/        – Final and intermediate Jupyter notebooks
+src/              – Modular Python scripts for preprocessing, modeling, visualization
+reports/          – Project report and presentation
+images/           – Exported charts used in the report
+data/             – Placeholder (datasets removed for privacy)
+requirements.txt  – Package dependencies
+LICENSE           – License file
+```
+
+See the project documentation in the report for detailed methodology, results, and analysis.
